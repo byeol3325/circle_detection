@@ -10,11 +10,11 @@ This repository focuses on circle detection using the AAMED (Adaptive Anti-Mutua
 
    you can download library in [AAMED](https://github.com/Li-Zhaoxi/AAMED).
 
-3. **Run Circle Detection**:
+3. **download my Circle Detection code**:
 
-   '''python
+   ```bash
    git clone https://github.com/byeol3325/circle_detection
-   '''
+   ```
 
 5. **Adjusting Parameters**:
 
