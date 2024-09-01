@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository focuses on circle detection using the AAMED (Adaptive Anti-Mutual-Exclusion Detector) algorithm. The AAMED algorithm is a robust method for detecting circular shapes in images, particularly useful in applications where precise and reliable detection is required.
+This repository focuses on circle detection using the AAMED (Arc Adjacency Matrix based Fast Ellipse Detection) algorithm. The AAMED algorithm is a robust method for detecting circular shapes in images, particularly useful in applications where precise and reliable detection is required.
 
 ## How to Use
 
