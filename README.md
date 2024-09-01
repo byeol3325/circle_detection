@@ -22,7 +22,7 @@ This repository focuses on circle detection using the AAMED (Arc Adjacency Matri
      ```python
      aamed.setParameters(3.1415926 / 3, 3.0, 0.77)
      ```
-   - ⚠️ you have to check the **path, output_path** ⚠️
+   - ⚠️ you have to check the **path, output_path** in circle_detection.py⚠️
      ```python
      path = "~~~"
      output_path = "~~~"
