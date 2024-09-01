@@ -10,9 +10,9 @@ This repository focuses on circle detection using the AAMED (Adaptive Anti-Mutua
    you can download library in [AAMED](https://github.com/Li-Zhaoxi/AAMED).
 
 2. **Run Circle Detection**:
-    '''bash
-    git clone https://github.com/byeol3325/circle_detection
-    '''
+     '''bash
+     git clone https://github.com/byeol3325/circle_detection
+     '''
 
 4. **Adjusting Parameters**:
    - You can adjust the detection parameters directly in the script or by using command-line arguments. For example, to change the sensitivity of the detection, modify the following line in the script:
