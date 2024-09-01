@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository focuses on circle detection using the AAMED (Arc Adjacency Matrix based Fast Ellipse Detection) algorithm. The AAMED algorithm is a robust method for detecting circular shapes in images, particularly useful in applications where precise and reliable detection is required.
+This repository focuses on circle detection using the AAMED (Arc Adjacency Matrix based Fast Ellipse Detection) algorithm. The AAMED algorithm is a robust method for detecting circular shapes in images, particularly useful in applications where precise and reliable detection is required. Thanks to the code authors. 😁
 
 ## How to Use
 
@@ -22,12 +22,12 @@ This repository focuses on circle detection using the AAMED (Arc Adjacency Matri
      ```python
      aamed.setParameters(3.1415926 / 3, 3.0, 0.77)
      ```
-   - you have to check the **path, output_path**
+   - ⚠️ you have to check the **path, output_path** ⚠️
      ```python
      path = "~~~"
      output_path = "~~~"
      ```
-     If there is no output_path, **output_path will be created automatically**, so don't worry.
+     If there is no output_path, **output_path will be created automatically**, so don't worry. 😁
 
 ## example images
 ![Example Result](circle_samples_output/bicycle.PNG)
