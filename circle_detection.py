@@ -49,8 +49,8 @@ def draw_detected_ellipses(image, ellipses, output_path, file):
 
 if __name__ == "__main__":
     print("=================================== START ===================================")
-    path = "D:/Users/Moon/projects/pill_detection/circle_sample/"
-    output_path = "D:/Users/Moon/projects/pill_detection/circle_sample/circle_samples_output/"
+    path = "../circle_sample/"
+    output_path = "../circle_samples_output/"
     files = list_image_files_in_directory(path) # load image files
     create_folder_if_not_exists(output_path) # create output path
 
